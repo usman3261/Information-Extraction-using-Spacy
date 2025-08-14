@@ -1,0 +1,34 @@
+Names:
+David Clarke
+Emma Lee
+Nina Patel
+Oliver Smith
+Sophia Wright
+Maya Torres
+Arjun Mehta
+Lena Fischer
+René Dubois
+
+Emails:
+david.clarke.dev@fakemail.net
+emma.lee.data@examplemail.com
+lucas.nguyen.api@nomail.org
+nina.patel.ml@fakeinbox.com
+oliver.smith.cloud@fakemail.com
+sophia.wright.cv@nomail.io
+maya.torres.docs@nomail.dev
+arjun.mehta.sec@examplemail.net
+lena.fischer.eval@fakemail.org
+rene.dubois.ops@nomail.org
+
+GitHub URLs:
+https://github.com/davidclarke-dev
+https://github.com/emma-lee-data
+https://github.com/lucas-nguyen-api
+https://github.com/ninapatel-ml
+https://github.com/oliversmith-cloud
+https://github.com/sophiawright-cv
+https://github.com/mayatorres-docs
+https://github.com/arjunmehta-sec
+https://github.com/lenafischer-eval
+https://github.com/renedubois-ops
